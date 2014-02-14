@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71901.aar" >
+        <source path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\build\exploded-bundles\ComAndroidSupportAppcompatV71901.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets" >
+            <file
+                name="castofly/art/Burst.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Burst.png" />
+            <file
+                name="castofly/art/button/EmbedMobile.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\button\EmbedMobile.png" />
+            <file
+                name="castofly/art/Buttons.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Buttons.png" />
+            <file
+                name="castofly/art/Buttons2.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Buttons2.png" />
+            <file
+                name="castofly/art/Cloud.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Cloud.png" />
+            <file
+                name="castofly/art/favicon/scootback.ico"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\favicon\scootback.ico" />
+            <file
+                name="castofly/art/favicon/scoothead.ico"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\favicon\scoothead.ico" />
+            <file
+                name="castofly/art/favicon/scootwing.ico"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\favicon\scootwing.ico" />
+            <file
+                name="castofly/art/Font.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Font.png" />
+            <file
+                name="castofly/art/Graphics/dead_castor.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\dead_castor.pfi" />
+            <file
+                name="castofly/art/Graphics/dead_castor.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\dead_castor.png" />
+            <file
+                name="castofly/art/Graphics/flying_castor.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\flying_castor.pfi" />
+            <file
+                name="castofly/art/Graphics/flying_castor.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\flying_castor.png" />
+            <file
+                name="castofly/art/Graphics/flying_castorv2.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\flying_castorv2.pfi" />
+            <file
+                name="castofly/art/Graphics/riding_castor.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\riding_castor.pfi" />
+            <file
+                name="castofly/art/Graphics/riding_castor.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\riding_castor.png" />
+            <file
+                name="castofly/art/Graphics/Scootaloo.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\Scootaloo.pfi" />
+            <file
+                name="castofly/art/Graphics/Scootaloo.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\Scootaloo.png" />
+            <file
+                name="castofly/art/Graphics/speeding_castor.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\speeding_castor.pfi" />
+            <file
+                name="castofly/art/Graphics/speeding_castor.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Graphics\speeding_castor.png" />
+            <file
+                name="castofly/art/icon/appv1.pfi"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\appv1.pfi" />
+            <file
+                name="castofly/art/icon/appv1.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\appv1.png" />
+            <file
+                name="castofly/art/icon/HomeScreen.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\HomeScreen.png" />
+            <file
+                name="castofly/art/icon/Icon.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\Icon.png" />
+            <file
+                name="castofly/art/icon/IconScoot.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\IconScoot.png" />
+            <file
+                name="castofly/art/icon/IconScootBack.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\IconScootBack.png" />
+            <file
+                name="castofly/art/icon/IconScootBackNoPolish.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\IconScootBackNoPolish.png" />
+            <file
+                name="castofly/art/icon/IconWing.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\IconWing.png" />
+            <file
+                name="castofly/art/icon/PonyWingsSite.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\icon\PonyWingsSite.png" />
+            <file
+                name="castofly/art/Loading - Copy.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Loading - Copy.png" />
+            <file
+                name="castofly/art/Loading.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Loading.png" />
+            <file
+                name="castofly/art/Parasprite.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Parasprite.png" />
+            <file
+                name="castofly/art/Scootaloo.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Scootaloo.png" />
+            <file
+                name="castofly/art/Scootaloov2.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Scootaloov2.png" />
+            <file
+                name="castofly/art/Timer.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Timer.png" />
+            <file
+                name="castofly/art/Tree.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\art\Tree.png" />
+            <file
+                name="castofly/callback_url.html"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\callback_url.html" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/.cordova/config.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\.cordova\config.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/plugins/ios.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\plugins\ios.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/README.md"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\README.md" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/app.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\app.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/install.bat"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\install.bat" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-compatibility.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-compatibility.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-finish-pipe.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-finish-pipe.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-large-read-stall.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-large-read-stall.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-objects.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-objects.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-pipe-error-handling.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-pipe-error-handling.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-push.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-push.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-read-sync-stack.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-read-sync-stack.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-readable-empty-buffer-no-eof.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-readable-empty-buffer-no-eof.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-readable-from-list.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-readable-from-list.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-readable-legacy-drain.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-readable-legacy-drain.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-readable-non-empty-end.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-readable-non-empty-end.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-set-encoding.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-set-encoding.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-transform.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-transform.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-unpipe-drain.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-unpipe-drain.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-unpipe-leak.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-unpipe-leak.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/bl/node_modules/readable-stream/test/simple/test-stream2-writable.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\bl\node_modules\readable-stream\test\simple\test-stream2-writable.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/manipulation.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\lib\manipulation.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/querying.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\lib\querying.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/stringify.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\lib\stringify.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/lib/traversal.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\lib\traversal.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/index.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\node_modules\domelementtype\index.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/LICENSE"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\node_modules\domelementtype\LICENSE" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/package.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\node_modules\domelementtype\package.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/node_modules/domelementtype/readme.md"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\node_modules\domelementtype\readme.md" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/test/tests/helpers.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\test\tests\helpers.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/node_modules/domutils/test/tests/legacy.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\node_modules\domutils\test\tests\legacy.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/CSSselect/test/tools/docs/W3C_Selectors.html"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\CSSselect\test\tools\docs\W3C_Selectors.html" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/01-basic.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\01-basic.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/02-single_tag_1.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\02-single_tag_1.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/03-single_tag_2.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\03-single_tag_2.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/04-unescaped_in_script.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\04-unescaped_in_script.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/05-tags_in_comment.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\05-tags_in_comment.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/06-comment_in_script.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\06-comment_in_script.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/07-unescaped_in_style.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\07-unescaped_in_style.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/08-extra_spaces_in_tag.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\08-extra_spaces_in_tag.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/09-unquoted_attrib.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\09-unquoted_attrib.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/10-singular_attribute.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\10-singular_attribute.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/11-text_outside_tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\11-text_outside_tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/12-text_only.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\12-text_only.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/13-comment_in_text.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\13-comment_in_text.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\14-comment_in_text_in_script.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/15-non-verbose.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\15-non-verbose.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/16-normalize_whitespace.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\16-normalize_whitespace.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/17-xml_namespace.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\17-xml_namespace.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/18-enforce_empty_tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\18-enforce_empty_tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/19-ignore_empty_tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\19-ignore_empty_tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/20-template_script_tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\20-template_script_tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/21-conditional_comments.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\21-conditional_comments.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/22-lowercase_tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\22-lowercase_tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/test/cases/23-dom-lvl1.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domhandler\test\cases\23-dom-lvl1.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/manipulation.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domutils\lib\manipulation.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/querying.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domutils\lib\querying.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/stringify.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domutils\lib\stringify.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/lib/traversal.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domutils\lib\traversal.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/test/tests/helpers.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domutils\test\tests\helpers.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/test/tests/legacy.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\domutils\test\tests\legacy.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/examples/CAPSLOCKTYPER.JS"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\examples\CAPSLOCKTYPER.JS" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/examples/typer-fsr.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\examples\typer-fsr.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/examples/typer.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\examples\typer.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_duplex.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_duplex.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_passthrough.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_passthrough.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_readable.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_readable.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_transform.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_transform.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_writable.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_writable.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/float.patch"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\core-util-is\float.patch" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/lib/util.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\core-util-is\lib\util.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/package.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\core-util-is\package.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/README.md"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\core-util-is\README.md" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/util.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\core-util-is\util.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/debuglog/debuglog.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\debuglog\debuglog.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/debuglog/LICENSE"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\debuglog\LICENSE" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/debuglog/package.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\debuglog\package.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/debuglog/README.md"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\node_modules\debuglog\README.md" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/fixtures/x1024.txt"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\fixtures\x1024.txt" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-GH-64.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-GH-64.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-GH-66.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-GH-66.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-big-push.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-big-push.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-end-paused.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-end-paused.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-pipe-after-end.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-pipe-after-end.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-pipe-error-handling.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-pipe-error-handling.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-pipe-event.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-pipe-event.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-push-order.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-push-order.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-push-strings.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-push-strings.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-readable-event.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-readable-event.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-readable-flow-recursion.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-readable-flow-recursion.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-unshift-empty-chunk.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-unshift-empty-chunk.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-unshift-read-race.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-unshift-read-race.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream-writev.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream-writev.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-basic.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-basic.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-compatibility.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-compatibility.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-finish-pipe.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-finish-pipe.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-large-read-stall.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-large-read-stall.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-objects.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-objects.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-pipe-error-handling.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-pipe-error-handling.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-pipe-error-once-listener.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-pipe-error-once-listener.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-push.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-push.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-read-sync-stack.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-read-sync-stack.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-readable-empty-buffer-no-eof.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-readable-empty-buffer-no-eof.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-readable-from-list.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-readable-from-list.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-readable-legacy-drain.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-readable-legacy-drain.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-readable-non-empty-end.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-readable-non-empty-end.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-readable-wrap-empty.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-readable-wrap-empty.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-readable-wrap.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-readable-wrap.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-set-encoding.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-set-encoding.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-transform.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-transform.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-unpipe-drain.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-unpipe-drain.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-unpipe-leak.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-unpipe-leak.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream2-writable.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream2-writable.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/test/simple/test-stream3-pause-then-read.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\node_modules\readable-stream\test\simple\test-stream3-pause-then-read.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/03-lowercase_tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\03-lowercase_tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/04-cdata.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\04-cdata.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/05-cdata-special.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\05-cdata-special.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/06-leading-lt.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\06-leading-lt.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/07-self-closing.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\07-self-closing.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/08-implicit-close-tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\08-implicit-close-tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/09-attributes.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\09-attributes.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/10-crazy-attrib.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\10-crazy-attrib.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/11-script_in_script.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\11-script_in_script.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/12-long-comment-end.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\12-long-comment-end.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/13-long-cdata-end.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\13-long-cdata-end.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/14-implicit-open-tags.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\14-implicit-open-tags.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/15-lt-whitespace.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\15-lt-whitespace.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/16-double_attribs.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\16-double_attribs.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/17-numeric_entities.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\17-numeric_entities.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/18-legacy_entities.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\18-legacy_entities.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/19-named_entities.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\19-named_entities.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/20-xml_entities.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\20-xml_entities.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/21-entity_in_attribute.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\21-entity_in_attribute.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/cheerio/node_modules/htmlparser2/test/Events/22-double_brackets.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\cheerio\node_modules\htmlparser2\test\Events\22-double_brackets.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/hyperdirect/node_modules/hyperquest/node_modules/through/test/buffering.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\hyperdirect\node_modules\hyperquest\node_modules\through\test\buffering.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/hyperdirect/node_modules/hyperquest/node_modules/through/test/end.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\hyperdirect\node_modules\hyperquest\node_modules\through\test\end.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/hyperdirect/node_modules/hyperquest/node_modules/through/test/index.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\hyperdirect\node_modules\hyperquest\node_modules\through\test\index.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/hyperzip/node_modules/hyperquest/node_modules/through/test/buffering.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\hyperzip\node_modules\hyperquest\node_modules\through\test\buffering.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/hyperzip/node_modules/hyperquest/node_modules/through/test/end.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\hyperzip\node_modules\hyperquest\node_modules\through\test\end.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/node_modules/string_decoder/build/node_modules/hyperzip/node_modules/hyperquest/node_modules/through/test/index.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\node_modules\express\node_modules\connect\node_modules\multiparty\node_modules\readable-stream\node_modules\string_decoder\build\node_modules\hyperzip\node_modules\hyperquest\node_modules\through\test\index.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/server/package.json"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\server\package.json" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/config.xml"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\config.xml" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/css/index.css"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\css\index.css" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/icon.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\icon.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/img/logo.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\img\logo.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/index.html"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\index.html" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/demo/demo.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\demo\demo.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/demo/jquery-1.11.0.min.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\demo\jquery-1.11.0.min.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/index.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\index.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/lib/castore.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\lib\castore.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/lib/oauth.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\lib\oauth.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/lib/sha1.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\lib\sha1.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/android/icon-36-ldpi.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\android\icon-36-ldpi.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/android/icon-48-mdpi.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\android\icon-48-mdpi.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/android/icon-72-hdpi.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\android\icon-72-hdpi.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/android/icon-96-xhdpi.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\android\icon-96-xhdpi.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/bada/icon-128.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\bada\icon-128.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/bada-wac/icon-48-type5.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\bada-wac\icon-48-type5.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/bada-wac/icon-50-type3.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\bada-wac\icon-50-type3.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/bada-wac/icon-80-type4.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\bada-wac\icon-80-type4.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/blackberry/icon-80.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\blackberry\icon-80.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/ios/icon-57-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\ios\icon-57-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/ios/icon-57.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\ios\icon-57.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/ios/icon-72-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\ios\icon-72-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/ios/icon-72.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\ios\icon-72.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/tizen/icon-128.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\tizen\icon-128.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/webos/icon-64.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\webos\icon-64.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/windows-phone/icon-173-tile.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\windows-phone\icon-173-tile.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/windows-phone/icon-48.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\windows-phone\icon-48.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/icon/windows-phone/icon-62-tile.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\icon\windows-phone\icon-62-tile.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-hdpi-landscape.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-hdpi-landscape.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-hdpi-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-hdpi-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-ldpi-landscape.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-ldpi-landscape.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-ldpi-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-ldpi-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-mdpi-landscape.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-mdpi-landscape.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-mdpi-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-mdpi-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-xhdpi-landscape.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-xhdpi-landscape.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/android/screen-xhdpi-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\android\screen-xhdpi-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/bada/screen-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\bada\screen-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/bada-wac/screen-type3.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\bada-wac\screen-type3.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/bada-wac/screen-type4.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\bada-wac\screen-type4.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/bada-wac/screen-type5.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\bada-wac\screen-type5.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/blackberry/screen-225.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\blackberry\screen-225.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-ipad-landscape-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-ipad-landscape-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-ipad-landscape.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-ipad-landscape.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-ipad-portrait-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-ipad-portrait-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-ipad-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-ipad-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-iphone-landscape-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-iphone-landscape-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-iphone-landscape.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-iphone-landscape.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-iphone-portrait-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-iphone-portrait-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-iphone-portrait-568h-2x.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-iphone-portrait-568h-2x.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/ios/screen-iphone-portrait.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\ios\screen-iphone-portrait.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/tizen/README.md"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\tizen\README.md" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/webos/screen-64.png"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\webos\screen-64.png" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/res/screen/windows-phone/screen-portrait.jpg"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\res\screen\windows-phone\screen-portrait.jpg" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec/helper.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec\helper.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec/index.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec\index.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec/lib/jasmine-1.2.0/jasmine-html.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec\lib\jasmine-1.2.0\jasmine-html.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec/lib/jasmine-1.2.0/jasmine.css"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec\lib\jasmine-1.2.0\jasmine.css" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec/lib/jasmine-1.2.0/jasmine.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec\lib\jasmine-1.2.0\jasmine.js" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec/lib/jasmine-1.2.0/MIT.LICENSE"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec\lib\jasmine-1.2.0\MIT.LICENSE" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/spec.html"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\spec.html" />
+            <file
+                name="castofly/css/game.css"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\css\game.css" />
+            <file
+                name="castofly/index.html"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\index.html" />
+            <file
+                name="castofly/music/WinterLoop.mp3"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\music\WinterLoop.mp3" />
+            <file
+                name="castofly/music/WinterLoop.ogg"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\music\WinterLoop.ogg" />
+            <file
+                name="castofly/ReadMe.txt"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\ReadMe.txt" />
+            <file
+                name="castofly/src/Background.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\Background.js" />
+            <file
+                name="castofly/src/concat.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\concat.js" />
+            <file
+                name="castofly/src/HUD.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\HUD.js" />
+            <file
+                name="castofly/src/KeyCont.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\KeyCont.js" />
+            <file
+                name="castofly/src/Menu.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\Menu.js" />
+            <file
+                name="castofly/src/MusicLoop.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\MusicLoop.js" />
+            <file
+                name="castofly/src/OurCAStore.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\OurCAStore.js" />
+            <file
+                name="castofly/src/Pony.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\Pony.js" />
+            <file
+                name="castofly/src/PonyWingsGame.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\PonyWingsGame.js" />
+            <file
+                name="castofly/src/Terrain.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\Terrain.js" />
+            <file
+                name="castofly/src/TerrainProp.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\src\TerrainProp.js" />
+            <file
+                name="castofly/ToDoList.txt"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\ToDoList.txt" />
+            <file
+                name="castofly/CAStoreStarterKit-JS-master/www/js/lib/jquery-1.11.0.min.js"
+                path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\main\assets\castofly\CAStoreStarterKit-JS-master\www\js\lib\jquery-1.11.0.min.js" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\e8k\Documents\GitHub\castofly\CastoFlyProject\CastoFly\src\debug\assets" />
+    </dataSet>
+
+</merger>
